@@ -1,6 +1,7 @@
 # 智能简历筛选系统 (Resume Screener)
 
 这是一个基于大型语言模型（LLM）的智能简历筛选系统。它旨在通过自动化和智能化的方式，提高招聘流程中简历筛选环节的效率和准确性。
+备注：需求来源：[https://linux.do/t/topic/844555/15](https://mp.weixin.qq.com/s/66zlftFwb2FmmkEddki1Xg)
 
 ## 功能特性
 
